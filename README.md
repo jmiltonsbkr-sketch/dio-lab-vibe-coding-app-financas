@@ -132,9 +132,7 @@ Desenvolver um app quase sem utilizar linguagem de programação é uma experiê
 A IA funciona melhor quando tratada como um parceiro de criação, e não como uma ferramenta isolada.
 ***
 
-# 5. 🚀 Próximos Passos (opcional incluir)
-
-Se quiser, posso adicionar esta seção ao README:
+# 5. 🚀 Próximos Passos - intenção
 
 *   Melhorar estabilidade do registro via chat
 *   Otimizar barra de progresso da meta
